@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Primer proyecto de Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriantorresl/gu-a-hoteles.git"
+  },
+  "author": "Adrian Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriantorresl/gu-a-hoteles/issues"
+  },
+  "homepage": "https://github.com/adriantorresl/gu-a-hoteles#readme"
+}
